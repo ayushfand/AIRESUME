@@ -1,10 +1,10 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import c1 from '../assets/contributors/c-1.jpg';
-import c2 from '../assets/contributors/c-2.jpg';
+import c1 from '../assets/contributors/gullu.jpg';
+import c2 from '../assets/contributors/microsoft.jpg';
 import c3 from '../assets/contributors/c-3.jpg';
 import c4 from '../assets/contributors/c-4.jpg';
-import c5 from '../assets/contributors/c-5.jpg';
+import c5 from '../assets/contributors/deepseek.jpg';
 
 const Collaborate = () => {
 
